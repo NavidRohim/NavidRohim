@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NavidRohim
+- 👀 I’m interested in low-level computer architecture
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on simple projects because I am not good with people
+- 📫 You can reach me via discord (rnavid)
